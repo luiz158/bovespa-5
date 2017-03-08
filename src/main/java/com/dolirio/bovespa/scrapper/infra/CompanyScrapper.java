@@ -1,34 +1,56 @@
 package com.dolirio.bovespa.scrapper.infra;
 
+import com.beust.jcommander.internal.Sets;
 import com.dolirio.bovespa.scrapper.domain.Company;
 import com.dolirio.bovespa.scrapper.domain.repos.CompaniesRepo;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
+import com.dolirio.bovespa.scrapper.infra.paginas.CompanyDataPage;
+import com.dolirio.bovespa.scrapper.infra.paginas.CompanyPage;
+import com.dolirio.bovespa.scrapper.infra.paginas.CompanyPage.CompanyLink;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.springframework.stereotype.Repository;
 
-import java.io.IOException;
-import java.util.Collections;
 import java.util.Set;
-import java.util.stream.IntStream;
 
 @Repository
 public class CompanyScrapper implements CompaniesRepo {
 
+
     @Override
     public Set<Company> getAll() {
 
-        try {
-            Document document = Jsoup.connect("http://www.guiainvest.com.br/setorial/setor/default.aspx")
-                    .cookie("ASP.NET_SessionId", "1cus4332ynq0qpk34ih0h3cj").get();
-            Elements trs = document.select("#RadGrid table tr td.rgSorted a");
-            trs.forEach(tds -> {
-                System.out.println("=> " + tds.attr("href") + " :" + tds.html());
-            });
-            return Collections.emptySet();
-        } catch (IOException e) {
-            throw new IllegalStateException("Erro ao avaliar página de empresas", e);
-        }
+        DesiredCapabilities caps = new DesiredCapabilities();
+        caps.setCapability("phantomjs.binary.path", "bin/phantomjs");
+
+        CompanyPage companyPage = getCompanyPage(caps);
+        companyPage.open();
+        companyPage.listAllCompanies();
+
+        int empresaAtual = 1;
+        int totalEmpresas = companyPage.quantity();
+
+        companyPage = getCompanyPage(caps);
+        do {
+            companyPage.open();
+
+            companyPage.listAllCompanies();
+
+            CompanyLink companyLink = companyPage.getCompanyLink(empresaAtual++);
+            System.out.println("Empresa atual: " + companyLink.getName());
+
+            CompanyDataPage companyDataPage = companyLink.openDataPage();
+            Set<String> codes = companyDataPage.getBovespaCodes();
+            System.out.println(codes);
+
+        } while (empresaAtual < totalEmpresas);
+
+
+        return Sets.newHashSet();
+    }
+
+    private CompanyPage getCompanyPage(DesiredCapabilities caps) {
+        WebDriver wd = new PhantomJSDriver(caps);
+        return new CompanyPage(wd);
     }
 }
