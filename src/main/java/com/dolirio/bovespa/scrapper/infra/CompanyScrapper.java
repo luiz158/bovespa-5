@@ -28,8 +28,9 @@ public class CompanyScrapper implements CompaniesRepo {
         companyPage.listAllCompanies();
 
         int empresaAtual = 1;
-        int totalEmpresas = companyPage.quantity();
+        int totalEmpresas = 5;//companyPage.quantity();
 
+        Set<Company> companies = Sets.newHashSet();
         companyPage = getCompanyPage(caps);
         do {
             companyPage.open();
@@ -37,16 +38,18 @@ public class CompanyScrapper implements CompaniesRepo {
             companyPage.listAllCompanies();
 
             CompanyLink companyLink = companyPage.getCompanyLink(empresaAtual++);
-            System.out.println("Empresa atual: " + companyLink.getName());
+            String name = companyLink.getName();
+            System.out.println("Empresa atual: " + name);
+            Company company = new Company(name);
 
             CompanyDataPage companyDataPage = companyLink.openDataPage();
             Set<String> codes = companyDataPage.getBovespaCodes();
-            System.out.println(codes);
+            company.addCodes(codes);
+            companies.add(company);
 
         } while (empresaAtual < totalEmpresas);
 
-
-        return Sets.newHashSet();
+        return companies;
     }
 
     private CompanyPage getCompanyPage(DesiredCapabilities caps) {
