@@ -16,7 +16,6 @@ import java.util.Set;
 @Repository
 public class CompanyScrapper implements CompaniesRepo {
 
-
     @Override
     public Set<Company> getAll() {
 
@@ -28,7 +27,7 @@ public class CompanyScrapper implements CompaniesRepo {
         companyPage.listAllCompanies();
 
         int empresaAtual = 1;
-        int totalEmpresas = 5;//companyPage.quantity();
+        int totalEmpresas = companyPage.quantity();
 
         Set<Company> companies = Sets.newHashSet();
         companyPage = getCompanyPage(caps);
