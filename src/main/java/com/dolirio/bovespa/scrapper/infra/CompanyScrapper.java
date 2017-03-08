@@ -17,7 +17,7 @@ import java.util.Set;
 public class CompanyScrapper implements CompaniesRepo {
 
     @Override
-    public Set<Company> getAll() {
+    public Set<Company> getAll(Set<Company> current) {
 
         DesiredCapabilities caps = new DesiredCapabilities();
         caps.setCapability("phantomjs.binary.path", "bin/phantomjs");
@@ -26,10 +26,13 @@ public class CompanyScrapper implements CompaniesRepo {
         companyPage.open();
         companyPage.listAllCompanies();
 
-        int empresaAtual = 1;
+        int empresaAtual = 1 + current.size();
         int totalEmpresas = companyPage.quantity();
+        int max = 0;
+        System.out.printf(">>> atual: %d. total: %d\n", empresaAtual, totalEmpresas);
 
         Set<Company> companies = Sets.newHashSet();
+        companies.addAll(current);
         companyPage = getCompanyPage(caps);
         do {
             companyPage.open();
@@ -46,7 +49,7 @@ public class CompanyScrapper implements CompaniesRepo {
             company.addCodes(codes);
             companies.add(company);
 
-        } while (empresaAtual < totalEmpresas);
+        } while ((empresaAtual < (totalEmpresas - 1)) || max++ < 60);
 
         return companies;
     }

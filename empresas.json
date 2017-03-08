@@ -1,0 +1,2758 @@
+[
+  {
+    "name": "CENTRAIS ELET DO PARA S.A. - CELPA",
+    "codes": [
+      "CELP6",
+      "CELP7",
+      "CELP3",
+      "CELP5"
+    ]
+  },
+  {
+    "name": "CIA BRASILEIRA DE DISTRIBUICAO",
+    "codes": [
+      "PCAR4",
+      "PCAR3"
+    ]
+  },
+  {
+    "name": "RGE SUL DISTRIBUIDORA DE ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "TEKNO S.A. - INDUSTRIA E COMERCIO",
+    "codes": [
+      "TKNO3",
+      "TKNO4"
+    ]
+  },
+  {
+    "name": "CRISTAL PIGMENTOS DO BRASIL S.A.",
+    "codes": [
+      "CRPG6",
+      "CRPG5",
+      "CRPG3"
+    ]
+  },
+  {
+    "name": "BR PROPERTIES S.A.",
+    "codes": [
+      "BRPR3"
+    ]
+  },
+  {
+    "name": "BRAZILIAN FINANCE E REAL ESTATE S.A.",
+    "codes": [
+      "BFRE11",
+      "BFRE12"
+    ]
+  },
+  {
+    "name": "FERROVIA CENTRO-ATLANTICA S.A.",
+    "codes": [
+      "VSPT3",
+      "VSPT4"
+    ]
+  },
+  {
+    "name": "TELEFÔNICA BRASIL S.A",
+    "codes": [
+      "VIVT3",
+      "VIVT4"
+    ]
+  },
+  {
+    "name": "BRPR 56 SECURITIZADORA CRED IMOB S.A.",
+    "codes": []
+  },
+  {
+    "name": "GUARARAPES CONFECCOES S.A.",
+    "codes": [
+      "GUAR3",
+      "GUAR4"
+    ]
+  },
+  {
+    "name": "ESTACIO PARTICIPACOES S.A.",
+    "codes": [
+      "ESTC3"
+    ]
+  },
+  {
+    "name": "BCO NORDESTE DO BRASIL S.A.",
+    "codes": [
+      "BNBR3"
+    ]
+  },
+  {
+    "name": "UPTICK PARTICIPACOES S.A.",
+    "codes": [
+      "UPKP3B"
+    ]
+  },
+  {
+    "name": "FINANCEIRA ALFA S.A.- CRED FINANC E INVS",
+    "codes": [
+      "CRIV3",
+      "CRIV4"
+    ]
+  },
+  {
+    "name": "CENTRAIS ELET BRAS S.A. - ELETROBRAS",
+    "codes": [
+      "ELET5",
+      "ELET3",
+      "ELET6"
+    ]
+  },
+  {
+    "name": "EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.",
+    "codes": [
+      "EMAE3",
+      "EMAE4"
+    ]
+  },
+  {
+    "name": "CESP - CIA ENERGETICA DE SAO PAULO",
+    "codes": [
+      "CESP3",
+      "CESP5",
+      "CESP6"
+    ]
+  },
+  {
+    "name": "GAIA AGRO SECURITIZADORA S.A.",
+    "codes": []
+  },
+  {
+    "name": "FORNO DE MINAS ALIMENTOS S.A.",
+    "codes": [
+      "FOMS3"
+    ]
+  },
+  {
+    "name": "TERMOPERNAMBUCO S.A.",
+    "codes": []
+  },
+  {
+    "name": "DTCOM - DIRECT TO COMPANY S.A.",
+    "codes": [
+      "DTCY3",
+      "DTCY4"
+    ]
+  },
+  {
+    "name": "BCO ESTADO DO PARA S.A.",
+    "codes": [
+      "BPAR3"
+    ]
+  },
+  {
+    "name": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+    "codes": [
+      "CSMG3"
+    ]
+  },
+  {
+    "name": "LONGDIS S.A.",
+    "codes": [
+      "SPRT3B"
+    ]
+  },
+  {
+    "name": "RODOVIAS DAS COLINAS S.A.",
+    "codes": []
+  },
+  {
+    "name": "REAL AI PIC SEC DE CREDITOS IMOBILIARIO S.A.",
+    "codes": []
+  },
+  {
+    "name": "LOJAS AMERICANAS S.A.",
+    "codes": [
+      "LAME4",
+      "LAME3"
+    ]
+  },
+  {
+    "name": "PLASCAR PARTICIPACOES INDUSTRIAIS S.A.",
+    "codes": [
+      "PLAS3"
+    ]
+  },
+  {
+    "name": "STATKRAFT ENERGIAS RENOVAVEIS S.A.",
+    "codes": [
+      "STKF3"
+    ]
+  },
+  {
+    "name": "CSU CARDSYSTEM S.A.",
+    "codes": [
+      "CARD3"
+    ]
+  },
+  {
+    "name": "MGI - MINAS GERAIS PARTICIPAÇÕES S.A.",
+    "codes": []
+  },
+  {
+    "name": "TOTVS S.A.",
+    "codes": [
+      "TOTS3"
+    ]
+  },
+  {
+    "name": "ITAU UNIBANCO HOLDING S.A.",
+    "codes": [
+      "ITUB4",
+      "ITUB3"
+    ]
+  },
+  {
+    "name": "ECO SECURITIZADORA DIREITOS CRED AGRONEGÓCIO S.A.",
+    "codes": []
+  },
+  {
+    "name": "INDUSTRIAS J B DUARTE S.A.",
+    "codes": [
+      "JBDU4",
+      "JBDU3"
+    ]
+  },
+  {
+    "name": "JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP",
+    "codes": [
+      "JOPA4",
+      "JOPA3"
+    ]
+  },
+  {
+    "name": "BRAZIL REALTY CIA SECURIT. CRÉD. IMOBILIÁRIOS",
+    "codes": []
+  },
+  {
+    "name": "BANDEIRANTE ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "MENDES JUNIOR ENGENHARIA S.A.",
+    "codes": [
+      "MEND6",
+      "MEND3",
+      "MEND5"
+    ]
+  },
+  {
+    "name": "LPS BRASIL - CONSULTORIA DE IMOVEIS S.A.",
+    "codes": [
+      "LPSB3"
+    ]
+  },
+  {
+    "name": "EMPRESA CONC RODOV DO NORTE S.A.ECONORTE",
+    "codes": []
+  },
+  {
+    "name": "CONC ECOVIAS IMIGRANTES S.A.",
+    "codes": []
+  },
+  {
+    "name": "EUCATEX S.A. INDUSTRIA E COMERCIO",
+    "codes": [
+      "EUCA4",
+      "EUCA3"
+    ]
+  },
+  {
+    "name": "FIBRIA CELULOSE S.A.",
+    "codes": [
+      "FIBR3"
+    ]
+  },
+  {
+    "name": "TUPY S.A.",
+    "codes": [
+      "TUPY3"
+    ]
+  },
+  {
+    "name": "HOPI HARI S.A.",
+    "codes": [
+      "PQTM3",
+      "PQTM4"
+    ]
+  },
+  {
+    "name": "ÓLEO E GÁS PARTICIPAÇÕES S.A.",
+    "codes": [
+      "OGXP3"
+    ]
+  },
+  {
+    "name": "SALUS INFRAESTRUTURA PORTUARIA SA",
+    "codes": []
+  },
+  {
+    "name": "SOMOS EDUCAÇÃO S.A.",
+    "codes": [
+      "SEDU3"
+    ]
+  },
+  {
+    "name": "AES ELPA S.A.",
+    "codes": [
+      "AELP3"
+    ]
+  },
+  {
+    "name": "VIVER INCORPORADORA E CONSTRUTORA S.A.",
+    "codes": [
+      "VIVR3"
+    ]
+  },
+  {
+    "name": "ENGIE BRASIL ENERGIA S.A.",
+    "codes": [
+      "EGIE3"
+    ]
+  },
+  {
+    "name": "EDP - ENERGIAS DO BRASIL S.A.",
+    "codes": [
+      "ENBR3"
+    ]
+  },
+  {
+    "name": "METALURGICA RIOSULENSE S.A.",
+    "codes": [
+      "RSUL3",
+      "RSUL4"
+    ]
+  },
+  {
+    "name": "LINX S.A.",
+    "codes": [
+      "LINX3"
+    ]
+  },
+  {
+    "name": "JOAO FORTES ENGENHARIA S.A.",
+    "codes": [
+      "JFEN3"
+    ]
+  },
+  {
+    "name": "BELAPART S.A.",
+    "codes": [
+      "PBEL3B"
+    ]
+  },
+  {
+    "name": "ITAPEBI GERACAO DE ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "KARSTEN S.A.",
+    "codes": [
+      "CTKA4",
+      "CTKA3"
+    ]
+  },
+  {
+    "name": "RUMO LOGISTICA OPERADORA MULTIMODAL S.A.",
+    "codes": [
+      "RUMO3"
+    ]
+  },
+  {
+    "name": "PARANAPANEMA S.A.",
+    "codes": [
+      "PMAM3"
+    ]
+  },
+  {
+    "name": "BMFBOVESPA S.A. BOLSA VALORES MERC FUT",
+    "codes": [
+      "BVMF3"
+    ]
+  },
+  {
+    "name": "524 PARTICIPACOES S.A.",
+    "codes": [
+      "QVQP3B"
+    ]
+  },
+  {
+    "name": "RIO GRANDE ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "ITAUSA INVESTIMENTOS ITAU S.A.",
+    "codes": [
+      "ITSA3",
+      "ITSA4"
+    ]
+  },
+  {
+    "name": "FRAS-LE S.A.",
+    "codes": [
+      "FRAS3"
+    ]
+  },
+  {
+    "name": "DIMED S.A. DISTRIBUIDORA DE MEDICAMENTOS",
+    "codes": [
+      "PNVL3",
+      "PNVL4"
+    ]
+  },
+  {
+    "name": "DIAGNOSTICOS DA AMERICA S.A.",
+    "codes": [
+      "DASA3"
+    ]
+  },
+  {
+    "name": "BCO PATAGONIA S.A.",
+    "codes": [
+      "BPAT33"
+    ]
+  },
+  {
+    "name": "CIBRASEC - COMPANHIA BRASILEIRA DE SECURITIZACAO",
+    "codes": []
+  },
+  {
+    "name": "CIA CATARINENSE DE AGUAS E SANEAM.-CASAN",
+    "codes": [
+      "CASN3",
+      "CASN4"
+    ]
+  },
+  {
+    "name": "ITAUTEC S.A. - GRUPO ITAUTEC",
+    "codes": [
+      "ITEC3"
+    ]
+  },
+  {
+    "name": "HELBOR EMPREENDIMENTOS S.A.",
+    "codes": [
+      "HBOR3"
+    ]
+  },
+  {
+    "name": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+    "codes": [
+      "CMIG4",
+      "CMIG3"
+    ]
+  },
+  {
+    "name": "B2W - COMPANHIA DIGITAL",
+    "codes": [
+      "BTOW3"
+    ]
+  },
+  {
+    "name": "POLPAR S.A.",
+    "codes": [
+      "PPAR3"
+    ]
+  },
+  {
+    "name": "SAO PAULO TURISMO S.A.",
+    "codes": [
+      "AHEB5",
+      "AHEB6",
+      "AHEB3"
+    ]
+  },
+  {
+    "name": "MARFRIG GLOBAL FOODS S.A.",
+    "codes": [
+      "MRFG3"
+    ]
+  },
+  {
+    "name": "TIM PARTICIPACOES S.A.",
+    "codes": [
+      "TIMP3"
+    ]
+  },
+  {
+    "name": "MULTIPLUS S.A.",
+    "codes": [
+      "MPLU3"
+    ]
+  },
+  {
+    "name": "TELEC BRASILEIRAS S.A. TELEBRAS",
+    "codes": [
+      "TELB3",
+      "TELB4"
+    ]
+  },
+  {
+    "name": "SARAIVA S.A. LIVREIROS EDITORES",
+    "codes": [
+      "SLED4",
+      "SLED3"
+    ]
+  },
+  {
+    "name": "CIA PARANAENSE DE ENERGIA - COPEL",
+    "codes": [
+      "CPLE6",
+      "CPLE3",
+      "CPLE5"
+    ]
+  },
+  {
+    "name": "REC SAO BERNARDO SECURITIZADORA CRED IMOB S.A.",
+    "codes": []
+  },
+  {
+    "name": "BETA SECURITIZADORA S.A.",
+    "codes": []
+  },
+  {
+    "name": "BAUMER S.A.",
+    "codes": [
+      "BALM3",
+      "BALM4"
+    ]
+  },
+  {
+    "name": "BICICLETAS MONARK S.A.",
+    "codes": [
+      "BMKS3"
+    ]
+  },
+  {
+    "name": "CIA SIDERURGICA NACIONAL",
+    "codes": [
+      "CSNA3"
+    ]
+  },
+  {
+    "name": "CIA PIRATININGA DE FORCA E LUZ",
+    "codes": []
+  },
+  {
+    "name": "SUL AMERICA S.A.",
+    "codes": [
+      "SULA11",
+      "SULA4",
+      "SULA3"
+    ]
+  },
+  {
+    "name": "CIA PAULISTA DE FORCA E LUZ",
+    "codes": []
+  },
+  {
+    "name": "INVESTIMENTOS BEMGE S.A.",
+    "codes": [
+      "FIGE3",
+      "FIGE4"
+    ]
+  },
+  {
+    "name": "LOJAS HERING S.A.",
+    "codes": [
+      "LHER3",
+      "LHER4"
+    ]
+  },
+  {
+    "name": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
+    "codes": [
+      "SOND6",
+      "SOND5",
+      "SOND3"
+    ]
+  },
+  {
+    "name": "TERMINAL GARAGEM MENEZES CORTES S.A.",
+    "codes": [
+      "MNZC3B"
+    ]
+  },
+  {
+    "name": "BCO SANTANDER (BRASIL) S.A.",
+    "codes": [
+      "SANB3",
+      "SANB4",
+      "SANB11"
+    ]
+  },
+  {
+    "name": "NEOENERGIA S.A.",
+    "codes": [
+      "GNAN3B"
+    ]
+  },
+  {
+    "name": "MANUFATURA DE BRINQUEDOS ESTRELA S.A.",
+    "codes": [
+      "ESTR3",
+      "ESTR4"
+    ]
+  },
+  {
+    "name": "SENIOR SOLUTION S.A.",
+    "codes": [
+      "SNSL3"
+    ]
+  },
+  {
+    "name": "BRADESCO LEASING S.A. ARREND MERCANTIL",
+    "codes": []
+  },
+  {
+    "name": "TELINVEST S.A.",
+    "codes": [
+      "TLVT3B"
+    ]
+  },
+  {
+    "name": "BR HOME CENTERS S.A.",
+    "codes": [
+      "HCBR3"
+    ]
+  },
+  {
+    "name": "CIA FERRO LIGAS DA BAHIA - FERBASA",
+    "codes": [
+      "FESA4",
+      "FESA3"
+    ]
+  },
+  {
+    "name": "GRENDENE S.A.",
+    "codes": [
+      "GRND3"
+    ]
+  },
+  {
+    "name": "XX DE NOVEMBRO INVESTIMENTOS E PARTICIPAÇÕES S.A.",
+    "codes": []
+  },
+  {
+    "name": "EQUATORIAL ENERGIA S.A.",
+    "codes": [
+      "EQTL3"
+    ]
+  },
+  {
+    "name": "ENEVA S.A",
+    "codes": [
+      "ENEV3"
+    ]
+  },
+  {
+    "name": "INVESTCO S.A.",
+    "codes": []
+  },
+  {
+    "name": "SUZANO HOLDING S.A.",
+    "codes": [
+      "NEMO3",
+      "NEMO6",
+      "NEMO5"
+    ]
+  },
+  {
+    "name": "CIA GAS DE SAO PAULO - COMGAS",
+    "codes": [
+      "CGAS3",
+      "CGAS5"
+    ]
+  },
+  {
+    "name": "MAHLE-METAL LEVE S.A.",
+    "codes": [
+      "LEVE3"
+    ]
+  },
+  {
+    "name": "ETERNIT S.A.",
+    "codes": [
+      "ETER3"
+    ]
+  },
+  {
+    "name": "SMILES S.A.",
+    "codes": [
+      "SMLE3"
+    ]
+  },
+  {
+    "name": "ELECTRO ACO ALTONA S.A.",
+    "codes": [
+      "EALT3",
+      "EALT4"
+    ]
+  },
+  {
+    "name": "DURATEX S.A.",
+    "codes": [
+      "DTEX3"
+    ]
+  },
+  {
+    "name": "VULCABRAS/AZALEIA S.A.",
+    "codes": [
+      "VULC3"
+    ]
+  },
+  {
+    "name": "SONAE SIERRA BRASIL S.A.",
+    "codes": [
+      "SSBR3"
+    ]
+  },
+  {
+    "name": "BCO MERCANTIL DE INVESTIMENTOS S.A.",
+    "codes": [
+      "BMIN4",
+      "BMIN3"
+    ]
+  },
+  {
+    "name": "TCP TERMINAL DE CONTEINERES DE PARANAGUA SA",
+    "codes": []
+  },
+  {
+    "name": "AES TIETE ENERGIA SA",
+    "codes": [
+      "TIET4",
+      "TIET11",
+      "TIET3"
+    ]
+  },
+  {
+    "name": "CIA ÁGUAS DO BRASIL - CAB AMBIENTAL",
+    "codes": [
+      "CABB3"
+    ]
+  },
+  {
+    "name": "REFINARIA DE PETROLEOS MANGUINHOS S.A.",
+    "codes": [
+      "RPMG3"
+    ]
+  },
+  {
+    "name": "CIA ENERGETICA DO CEARA - COELCE",
+    "codes": [
+      "COCE3",
+      "COCE5",
+      "COCE6"
+    ]
+  },
+  {
+    "name": "CIA ENERGETICA DE PERNAMBUCO - CELPE",
+    "codes": [
+      "CEPE3",
+      "CEPE5",
+      "CEPE6"
+    ]
+  },
+  {
+    "name": "SPRINGER S.A.",
+    "codes": [
+      "SPRI6",
+      "SPRI5",
+      "SPRI3"
+    ]
+  },
+  {
+    "name": "BARDELLA S.A. INDUSTRIAS MECANICAS",
+    "codes": [
+      "BDLL4",
+      "BDLL3"
+    ]
+  },
+  {
+    "name": "CONC ROD AYRTON SENNA E CARV PINTO S.A.-ECOPISTAS",
+    "codes": []
+  },
+  {
+    "name": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
+    "codes": [
+      "PFRM3"
+    ]
+  },
+  {
+    "name": "ECORODOVIAS CONCESSÕES E SERVIÇOS S.A.",
+    "codes": []
+  },
+  {
+    "name": "CIA FIACAO TECIDOS CEDRO CACHOEIRA",
+    "codes": [
+      "CEDO3",
+      "CEDO4"
+    ]
+  },
+  {
+    "name": "FINANSINOS S.A.- CREDITO FINANC E INVEST",
+    "codes": [
+      "FNCN3"
+    ]
+  },
+  {
+    "name": "HOTEIS OTHON S.A.",
+    "codes": [
+      "HOOT4",
+      "HOOT3"
+    ]
+  },
+  {
+    "name": "HERCULES S.A. FABRICA DE TALHERES",
+    "codes": [
+      "HETA4",
+      "HETA3"
+    ]
+  },
+  {
+    "name": "CIA ENERGETICA DO MARANHAO - CEMAR",
+    "codes": [
+      "ENMA3B",
+      "ENMA6B",
+      "ENMA5B"
+    ]
+  },
+  {
+    "name": "TERRA SANTA AGRO S.A.",
+    "codes": [
+      "TESA3"
+    ]
+  },
+  {
+    "name": "SUZANO PAPEL E CELULOSE S.A.",
+    "codes": [
+      "SUZB5",
+      "SUZB6"
+    ]
+  },
+  {
+    "name": "POSITIVO INFORMATICA S.A.",
+    "codes": [
+      "POSI3"
+    ]
+  },
+  {
+    "name": "CONSTRUTORA LIX DA CUNHA S.A.",
+    "codes": [
+      "LIXC3",
+      "LIXC4"
+    ]
+  },
+  {
+    "name": "NORDON INDUSTRIAS METALURGICAS S.A.",
+    "codes": [
+      "NORD3"
+    ]
+  },
+  {
+    "name": "COSAN LOGISTICA S.A.",
+    "codes": [
+      "RLOG3"
+    ]
+  },
+  {
+    "name": "BRF S.A.",
+    "codes": [
+      "BRFS3"
+    ]
+  },
+  {
+    "name": "UNIDAS S.A.",
+    "codes": []
+  },
+  {
+    "name": "RUMO MALHA NORTE S.A.",
+    "codes": [
+      "FRRN5B",
+      "FRRN6B",
+      "FRRN3B"
+    ]
+  },
+  {
+    "name": "ROSSI RESIDENCIAL S.A.",
+    "codes": [
+      "RSID3"
+    ]
+  },
+  {
+    "name": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
+    "codes": [
+      "ECOR3"
+    ]
+  },
+  {
+    "name": "CCR S.A.",
+    "codes": [
+      "CCRO3"
+    ]
+  },
+  {
+    "name": "CEMEPE INVESTIMENTOS S.A.",
+    "codes": [
+      "MAPT3",
+      "MAPT4"
+    ]
+  },
+  {
+    "name": "BRPR 45 SECURITIZADORA CRED IMOB S.A.",
+    "codes": []
+  },
+  {
+    "name": "CONC DO AEROPORTO INTERNACIONAL DE GUARULHOS S.A.",
+    "codes": []
+  },
+  {
+    "name": "AREZZO INDÚSTRIA E COMÉRCIO S.A.",
+    "codes": [
+      "ARZZ3"
+    ]
+  },
+  {
+    "name": "CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA",
+    "codes": [
+      "TRPL4",
+      "TRPL3"
+    ]
+  },
+  {
+    "name": "J. MACEDO S.A.",
+    "codes": []
+  },
+  {
+    "name": "FUTURETEL S.A.",
+    "codes": [
+      "FTRT3B"
+    ]
+  },
+  {
+    "name": "GAFISA S.A.",
+    "codes": [
+      "GFSA3"
+    ]
+  },
+  {
+    "name": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+    "codes": [
+      "PETR4",
+      "PETR3"
+    ]
+  },
+  {
+    "name": "METALURGICA GERDAU S.A.",
+    "codes": [
+      "GOAU4",
+      "GOAU3"
+    ]
+  },
+  {
+    "name": "CONSERVAS ODERICH S.A.",
+    "codes": [
+      "ODER3",
+      "ODER4"
+    ]
+  },
+  {
+    "name": "ESPIRITO SANTO CENTR.ELETR. S.A.-ESCELSA",
+    "codes": []
+  },
+  {
+    "name": "NUMERAL 80 PARTICIPAÇÕES S.A.",
+    "codes": []
+  },
+  {
+    "name": "ALTUS SISTEMA DE AUTOMAÇÃO S.A.",
+    "codes": [
+      "ALTS11",
+      "ALTS3"
+    ]
+  },
+  {
+    "name": "CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA",
+    "codes": [
+      "CORR3",
+      "CORR4"
+    ]
+  },
+  {
+    "name": "SAUIPE S.A.",
+    "codes": [
+      "PSEG3",
+      "PSEG4"
+    ]
+  },
+  {
+    "name": "MRS LOGISTICA S.A.",
+    "codes": [
+      "MRSA6B",
+      "MRSA3B",
+      "MRSA5B"
+    ]
+  },
+  {
+    "name": "MINUPAR PARTICIPACOES S.A.",
+    "codes": [
+      "MNPR3"
+    ]
+  },
+  {
+    "name": "HAGA S.A. INDUSTRIA E COMERCIO",
+    "codes": [
+      "HAGA4",
+      "HAGA3"
+    ]
+  },
+  {
+    "name": "CIA SANEAMENTO DO PARANA - SANEPAR",
+    "codes": [
+      "SAPR3",
+      "SAPR4"
+    ]
+  },
+  {
+    "name": "BCO ESTADO DE SERGIPE S.A. - BANESE",
+    "codes": [
+      "BGIP3",
+      "BGIP4"
+    ]
+  },
+  {
+    "name": "OURO FINO SAUDE ANIMAL PARTICIPACOES S.A.",
+    "codes": [
+      "OFSA3"
+    ]
+  },
+  {
+    "name": "REDE ENERGIA S.A.",
+    "codes": [
+      "REDE4",
+      "REDE3"
+    ]
+  },
+  {
+    "name": "LIGHT S.A.",
+    "codes": [
+      "LIGT3"
+    ]
+  },
+  {
+    "name": "CPFL GERACAO DE ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "RET PARTICIPACOES S.A.",
+    "codes": [
+      "OPRE3B"
+    ]
+  },
+  {
+    "name": "CIA INDUSTRIAL CATAGUASES",
+    "codes": [
+      "CATA3",
+      "CATA4"
+    ]
+  },
+  {
+    "name": "SIDERURGICA J. L. ALIPERTI S.A.",
+    "codes": [
+      "APTI3",
+      "APTI4"
+    ]
+  },
+  {
+    "name": "SANTOS BRASIL PARTICIPACOES S.A.",
+    "codes": [
+      "STBP3"
+    ]
+  },
+  {
+    "name": "DIBENS LEASING S.A. - ARREND.MERCANTIL",
+    "codes": []
+  },
+  {
+    "name": "BRB BCO DE BRASILIA S.A.",
+    "codes": [
+      "BSLI3",
+      "BSLI4"
+    ]
+  },
+  {
+    "name": "BCO ALFA DE INVESTIMENTO S.A.",
+    "codes": [
+      "BRIV3",
+      "BRIV4"
+    ]
+  },
+  {
+    "name": "FLEURY S.A.",
+    "codes": [
+      "FLRY3"
+    ]
+  },
+  {
+    "name": "VIA VAREJO S.A.",
+    "codes": [
+      "VVAR4",
+      "VVAR3",
+      "VVAR11"
+    ]
+  },
+  {
+    "name": "DINAMICA ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "BRQ SOLUCOES EM INFORMATICA S.A.",
+    "codes": [
+      "BRQB3"
+    ]
+  },
+  {
+    "name": "CAPITALPART PARTICIPACOES S.A.",
+    "codes": [
+      "CPTP3B"
+    ]
+  },
+  {
+    "name": "PIPA CIA SECURITIZADORA DE CRÉDITOS IMOBILIÁRIO",
+    "codes": []
+  },
+  {
+    "name": "BRASIL PHARMA S.A.",
+    "codes": [
+      "BPHA3"
+    ]
+  },
+  {
+    "name": "LOJAS RENNER S.A.",
+    "codes": [
+      "LREN3"
+    ]
+  },
+  {
+    "name": "SLC AGRICOLA S.A.",
+    "codes": [
+      "SLCE3"
+    ]
+  },
+  {
+    "name": "WETZEL S.A.",
+    "codes": [
+      "MWET4",
+      "MWET3"
+    ]
+  },
+  {
+    "name": "QGEP PARTICIPAÇÕES S.A.",
+    "codes": [
+      "QGEP3"
+    ]
+  },
+  {
+    "name": "AZEVEDO E TRAVASSOS S.A.",
+    "codes": [
+      "AZEV3",
+      "AZEV4"
+    ]
+  },
+  {
+    "name": "RECRUSUL S.A.",
+    "codes": [
+      "RCSL4",
+      "RCSL3"
+    ]
+  },
+  {
+    "name": "OURINVEST SECURITIZADORA SA",
+    "codes": []
+  },
+  {
+    "name": "OI S.A.",
+    "codes": [
+      "OIBR4",
+      "OIBR3"
+    ]
+  },
+  {
+    "name": "GAIA SECURITIZADORA S.A.",
+    "codes": []
+  },
+  {
+    "name": "CENTRO DE IMAGEM DIAGNOSTICOS S.A.",
+    "codes": [
+      "AALR3"
+    ]
+  },
+  {
+    "name": "ALTERE SECURITIZADORA S.A.",
+    "codes": []
+  },
+  {
+    "name": "INVESTIMENTOS E PARTICIP. EM INFRA S.A. - INVEPAR",
+    "codes": [
+      "IVPR3B",
+      "IVPR4B"
+    ]
+  },
+  {
+    "name": "JBS S.A.",
+    "codes": [
+      "JBSS3"
+    ]
+  },
+  {
+    "name": "SANESALTO SANEAMENTO S.A.",
+    "codes": []
+  },
+  {
+    "name": "RANDON S.A. IMPLEMENTOS E PARTICIPACOES",
+    "codes": [
+      "RAPT3",
+      "RAPT4"
+    ]
+  },
+  {
+    "name": "BR MALLS PARTICIPACOES S.A.",
+    "codes": [
+      "BRML3"
+    ]
+  },
+  {
+    "name": "ITAITINGA PARTICIPACOES S.A.",
+    "codes": [
+      "SQRM11",
+      "SQRM3"
+    ]
+  },
+  {
+    "name": "VALID SOLUÇÕES E SERV. SEG. MEIOS PAG. IDENT. S.A.",
+    "codes": [
+      "VLID3"
+    ]
+  },
+  {
+    "name": "CONSORCIO ALFA DE ADMINISTRACAO S.A.",
+    "codes": [
+      "BRGE6",
+      "BRGE7",
+      "BRGE8",
+      "BRGE11",
+      "BRGE12",
+      "BRGE3",
+      "BRGE5"
+    ]
+  },
+  {
+    "name": "RODOBENS NEGOCIOS IMOBILIARIOS S.A.",
+    "codes": [
+      "RDNI3"
+    ]
+  },
+  {
+    "name": "SUL 116 PARTICIPACOES S.A.",
+    "codes": [
+      "OPTS3B"
+    ]
+  },
+  {
+    "name": "BCO PAN S.A.",
+    "codes": [
+      "BPAN4"
+    ]
+  },
+  {
+    "name": "PETTENATI S.A. INDUSTRIA TEXTIL",
+    "codes": [
+      "PTNT4",
+      "PTNT3"
+    ]
+  },
+  {
+    "name": "INEPAR S.A. INDUSTRIA E CONSTRUCOES",
+    "codes": [
+      "INEP3",
+      "INEP4"
+    ]
+  },
+  {
+    "name": "RESTOQUE COMÉRCIO E CONFECÇÕES DE ROUPAS S.A.",
+    "codes": [
+      "LLIS3"
+    ]
+  },
+  {
+    "name": "JEREISSATI PARTICIPACOES S.A.",
+    "codes": [
+      "MLFT3",
+      "MLFT4"
+    ]
+  },
+  {
+    "name": "CR2 EMPREENDIMENTOS IMOBILIARIOS S.A.",
+    "codes": [
+      "CRDE3"
+    ]
+  },
+  {
+    "name": "BANESTES S.A. - BCO EST ESPIRITO SANTO",
+    "codes": [
+      "BEES3",
+      "BEES4"
+    ]
+  },
+  {
+    "name": "BCO ABC BRASIL S.A.",
+    "codes": [
+      "ABCB4"
+    ]
+  },
+  {
+    "name": "PRODUTORES ENERGET.DE MANSO S.A.- PROMAN",
+    "codes": [
+      "PRMN3B"
+    ]
+  },
+  {
+    "name": "SAO MARTINHO S.A.",
+    "codes": [
+      "SMTO3"
+    ]
+  },
+  {
+    "name": "TECNISA S.A.",
+    "codes": [
+      "TCSA3"
+    ]
+  },
+  {
+    "name": "SANTHER FAB DE PAPEL STA THEREZINHA S.A.",
+    "codes": []
+  },
+  {
+    "name": "KROTON EDUCACIONAL S.A.",
+    "codes": [
+      "KROT3"
+    ]
+  },
+  {
+    "name": "BCO BTG PACTUAL S.A.",
+    "codes": [
+      "BPAC5",
+      "BPAC3",
+      "BPAC11"
+    ]
+  },
+  {
+    "name": "BCO INDUSVAL S.A.",
+    "codes": [
+      "IDVL3",
+      "IDVL4"
+    ]
+  },
+  {
+    "name": "LOCALIZA RENT A CAR S.A.",
+    "codes": [
+      "RENT3"
+    ]
+  },
+  {
+    "name": "CIA CELG DE PARTICIPACOES - CELGPAR",
+    "codes": [
+      "GPAR3"
+    ]
+  },
+  {
+    "name": "PORTO SUDESTE V.M. S.A.",
+    "codes": []
+  },
+  {
+    "name": "SELECTPART PARTICIPACOES S.A.",
+    "codes": [
+      "SLCT3B"
+    ]
+  },
+  {
+    "name": "DUFRY A.G.",
+    "codes": [
+      "DAGB33"
+    ]
+  },
+  {
+    "name": "MINASMAQUINAS S.A.",
+    "codes": [
+      "MMAQ3",
+      "MMAQ4"
+    ]
+  },
+  {
+    "name": "TERMELÉTRICA PERNAMBUCO III S.A.",
+    "codes": []
+  },
+  {
+    "name": "ALPARGATAS S.A.",
+    "codes": [
+      "ALPA3",
+      "ALPA4"
+    ]
+  },
+  {
+    "name": "IGB ELETRÔNICA S/A",
+    "codes": [
+      "IGBR3"
+    ]
+  },
+  {
+    "name": "BUETTNER S.A. INDUSTRIA E COMERCIO",
+    "codes": [
+      "BUET3",
+      "BUET4"
+    ]
+  },
+  {
+    "name": "BCO BRADESCO S.A.",
+    "codes": [
+      "BBDC4",
+      "BBDC3"
+    ]
+  },
+  {
+    "name": "CIA HABITASUL DE PARTICIPACOES",
+    "codes": [
+      "HBTS6",
+      "HBTS5",
+      "HBTS3"
+    ]
+  },
+  {
+    "name": "NORTEC QUÍMICA S.A.",
+    "codes": [
+      "NRTQ3"
+    ]
+  },
+  {
+    "name": "CACHOEIRA PAULISTA TRANSMISSORA ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "CIA HERING",
+    "codes": [
+      "HGTX3"
+    ]
+  },
+  {
+    "name": "BCO AMAZONIA S.A.",
+    "codes": [
+      "BAZA3"
+    ]
+  },
+  {
+    "name": "BETAPART PARTICIPACOES S.A.",
+    "codes": [
+      "BETP3B"
+    ]
+  },
+  {
+    "name": "CIA ENERGETICA DO RIO GDE NORTE - COSERN",
+    "codes": [
+      "CSRN3",
+      "CSRN6",
+      "CSRN5"
+    ]
+  },
+  {
+    "name": "TRIÂNGULO DO SOL AUTO-ESTRADAS S.A.",
+    "codes": []
+  },
+  {
+    "name": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
+    "codes": [
+      "UCAS3"
+    ]
+  },
+  {
+    "name": "CEMIG DISTRIBUICAO S.A.",
+    "codes": []
+  },
+  {
+    "name": "TECHNOS S.A.",
+    "codes": [
+      "TECN3"
+    ]
+  },
+  {
+    "name": "FERTILIZANTES HERINGER S.A.",
+    "codes": [
+      "FHER3"
+    ]
+  },
+  {
+    "name": "JPSP INVESTIMENTOS E PARTICIPAÇÕES S.A.",
+    "codes": [
+      "LFFE4",
+      "LFFE3"
+    ]
+  },
+  {
+    "name": "MRV ENGENHARIA E PARTICIPACOES S.A.",
+    "codes": [
+      "MRVE3"
+    ]
+  },
+  {
+    "name": "PDG COMPANHIA SECURITIZADORA",
+    "codes": []
+  },
+  {
+    "name": "EMBRAER S.A.",
+    "codes": [
+      "EMBR3"
+    ]
+  },
+  {
+    "name": "CIA DISTRIB DE GAS DO RIO DE JANEIRO-CEG",
+    "codes": [
+      "CEGR3"
+    ]
+  },
+  {
+    "name": "GENERAL SHOPPING BRASIL S.A.",
+    "codes": [
+      "GSHP3"
+    ]
+  },
+  {
+    "name": "FPC PAR CORRETORA DE SEGUROS S.A.",
+    "codes": [
+      "PARC3"
+    ]
+  },
+  {
+    "name": "CIA PARTICIPACOES ALIANCA DA BAHIA",
+    "codes": [
+      "PEAB4",
+      "PEAB3"
+    ]
+  },
+  {
+    "name": "GRUCAI PARTICIPACOES S.A.",
+    "codes": [
+      "GRUC6",
+      "GRUC3"
+    ]
+  },
+  {
+    "name": "CETIP S.A. - MERCADOS ORGANIZADOS",
+    "codes": [
+      "CTIP3"
+    ]
+  },
+  {
+    "name": "CPFL ENERGIAS RENOVÁVEIS S.A.",
+    "codes": [
+      "CPRE3"
+    ]
+  },
+  {
+    "name": "BV LEASING - ARRENDAMENTO MERCANTIL S.A.",
+    "codes": []
+  },
+  {
+    "name": "SPRINGS GLOBAL PARTICIPACOES S.A.",
+    "codes": [
+      "SGPS3"
+    ]
+  },
+  {
+    "name": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
+    "codes": [
+      "BBSE3"
+    ]
+  },
+  {
+    "name": "CIA SANEAMENTO BASICO EST SAO PAULO",
+    "codes": [
+      "SBSP3"
+    ]
+  },
+  {
+    "name": "OURO VERDE LOCACAO E SERVICO S.A.",
+    "codes": []
+  },
+  {
+    "name": "TRISUL S.A.",
+    "codes": [
+      "TRIS3"
+    ]
+  },
+  {
+    "name": "CYRELA COMMERCIAL PROPERT S.A. EMPR PART",
+    "codes": [
+      "CCPR3"
+    ]
+  },
+  {
+    "name": "TEKA-TECELAGEM KUEHNRICH S.A.",
+    "codes": [
+      "TEKA3",
+      "TEKA4"
+    ]
+  },
+  {
+    "name": "CPFL ENERGIA S.A.",
+    "codes": [
+      "CPFE3"
+    ]
+  },
+  {
+    "name": "PDG REALTY S.A. EMPREEND E PARTICIPACOES",
+    "codes": [
+      "PDGR3"
+    ]
+  },
+  {
+    "name": "COSAN S.A. INDUSTRIA E COMERCIO",
+    "codes": [
+      "CSAN3"
+    ]
+  },
+  {
+    "name": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+    "codes": [
+      "MULT3"
+    ]
+  },
+  {
+    "name": "RUMO S.A.",
+    "codes": []
+  },
+  {
+    "name": "MAESTRO LOCADORA DE VEICULOS S.A.",
+    "codes": [
+      "MSRO3"
+    ]
+  },
+  {
+    "name": "CIMS S.A.",
+    "codes": [
+      "CMSA4",
+      "CMSA3"
+    ]
+  },
+  {
+    "name": "TREVISA INVESTIMENTOS S.A.",
+    "codes": [
+      "LUXM4",
+      "LUXM3"
+    ]
+  },
+  {
+    "name": "GP INVESTMENTS. LTD.",
+    "codes": [
+      "GPIV33"
+    ]
+  },
+  {
+    "name": "ALGAR TELECOM S/A",
+    "codes": []
+  },
+  {
+    "name": "BRPR 55 SECURITIZADORA CRED IMOB S.A.",
+    "codes": []
+  },
+  {
+    "name": "GPC PARTICIPACOES S.A.",
+    "codes": [
+      "GPCP3"
+    ]
+  },
+  {
+    "name": "FORJAS TAURUS S.A.",
+    "codes": [
+      "FJTA4",
+      "FJTA3"
+    ]
+  },
+  {
+    "name": "SUDESTE S.A.",
+    "codes": [
+      "OPSE3B"
+    ]
+  },
+  {
+    "name": "ULTRAPAR PARTICIPACOES S.A.",
+    "codes": [
+      "UGPA3"
+    ]
+  },
+  {
+    "name": "AFLUENTE GERAÇÃO DE ENERGIA ELÉTRICA S.A.",
+    "codes": [
+      "AFLU3",
+      "AFLU5",
+      "AFLU6"
+    ]
+  },
+  {
+    "name": "ENERGISA S.A.",
+    "codes": [
+      "ENGI11",
+      "ENGI3",
+      "ENGI4"
+    ]
+  },
+  {
+    "name": "GAMA PARTICIPACOES S.A.",
+    "codes": [
+      "OPGM3B"
+    ]
+  },
+  {
+    "name": "TARPON INVESTIMENTOS S.A.",
+    "codes": [
+      "TRPN3"
+    ]
+  },
+  {
+    "name": "LIGHT SERVICOS DE ELETRICIDADE S.A.",
+    "codes": []
+  },
+  {
+    "name": "CACONDE PARTICIPACOES S.A.",
+    "codes": [
+      "CACO3B"
+    ]
+  },
+  {
+    "name": "AFLUENTE TRANSMISSÃO DE ENERGIA ELÉTRICA S/A",
+    "codes": [
+      "AFLT3"
+    ]
+  },
+  {
+    "name": "GAEC EDUCAÇÃO S.A.",
+    "codes": [
+      "ANIM3"
+    ]
+  },
+  {
+    "name": "EZ TEC EMPREEND. E PARTICIPACOES S.A.",
+    "codes": [
+      "EZTC3"
+    ]
+  },
+  {
+    "name": "MOVIDA PARTICIPACOES SA",
+    "codes": [
+      "MOVI3"
+    ]
+  },
+  {
+    "name": "BATTISTELLA ADM PARTICIPACOES S.A.",
+    "codes": [
+      "BTTL3",
+      "BTTL4"
+    ]
+  },
+  {
+    "name": "SAO CARLOS EMPREEND E PARTICIPACOES S.A.",
+    "codes": [
+      "SCAR3"
+    ]
+  },
+  {
+    "name": "PARANA BCO S.A.",
+    "codes": [
+      "PRBC4"
+    ]
+  },
+  {
+    "name": "ARTERIS S.A.",
+    "codes": []
+  },
+  {
+    "name": "WEG S.A.",
+    "codes": [
+      "WEGE3"
+    ]
+  },
+  {
+    "name": "VERT COMPANHIA SECURITIZADORA",
+    "codes": []
+  },
+  {
+    "name": "MUNDIAL S.A. - PRODUTOS DE CONSUMO",
+    "codes": [
+      "MNDL3"
+    ]
+  },
+  {
+    "name": "BRASILAGRO - CIA BRAS DE PROP AGRICOLAS",
+    "codes": [
+      "AGRO3"
+    ]
+  },
+  {
+    "name": "POLO CAPITAL SECURITIZADORA S.A",
+    "codes": []
+  },
+  {
+    "name": "DIRECIONAL ENGENHARIA S.A.",
+    "codes": [
+      "DIRR3"
+    ]
+  },
+  {
+    "name": "UNIPAR CARBOCLORO S.A.",
+    "codes": [
+      "UNIP3",
+      "UNIP6",
+      "UNIP5"
+    ]
+  },
+  {
+    "name": "LUPATECH S.A.",
+    "codes": [
+      "LUPA3"
+    ]
+  },
+  {
+    "name": "POMIFRUTAS S/A",
+    "codes": [
+      "FRTA3"
+    ]
+  },
+  {
+    "name": "HYPERMARCAS S.A.",
+    "codes": [
+      "HYPE3"
+    ]
+  },
+  {
+    "name": "MMX MINERACAO E METALICOS S.A.",
+    "codes": [
+      "MMXM3"
+    ]
+  },
+  {
+    "name": "RB CAPITAL SECURITIZADORA S.A.",
+    "codes": []
+  },
+  {
+    "name": "ATOM PARTICIPACOES S.A.",
+    "codes": [
+      "ATOM3"
+    ]
+  },
+  {
+    "name": "CIA ESTADUAL DE DISTRIB ENER ELET-CEEE-D",
+    "codes": [
+      "CEED3",
+      "CEED4"
+    ]
+  },
+  {
+    "name": "CIA TECIDOS SANTANENSE",
+    "codes": [
+      "CTSA4",
+      "CTSA3",
+      "CTSA8"
+    ]
+  },
+  {
+    "name": "CIA ENERGETICA DE BRASILIA",
+    "codes": [
+      "CEBR3",
+      "CEBR5",
+      "CEBR6"
+    ]
+  },
+  {
+    "name": "CAIANDA PARTICIPACOES S.A.",
+    "codes": [
+      "CAIA3B"
+    ]
+  },
+  {
+    "name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+    "codes": [
+      "USIM6",
+      "USIM3",
+      "USIM5"
+    ]
+  },
+  {
+    "name": "NADIR FIGUEIREDO IND E COM S.A.",
+    "codes": [
+      "NAFG3",
+      "NAFG4"
+    ]
+  },
+  {
+    "name": "MARISA LOJAS S.A.",
+    "codes": [
+      "AMAR3"
+    ]
+  },
+  {
+    "name": "CONC ROD OSORIO-PORTO ALEGRE S.A-CONCEPA",
+    "codes": []
+  },
+  {
+    "name": "BIOMM S.A.",
+    "codes": [
+      "BIOM3"
+    ]
+  },
+  {
+    "name": "PROMPT PARTICIPACOES S.A.",
+    "codes": [
+      "PRPT3B"
+    ]
+  },
+  {
+    "name": "LOG-IN LOGISTICA INTERMODAL S.A.",
+    "codes": [
+      "LOGN3"
+    ]
+  },
+  {
+    "name": "FERREIRA GOMES ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "EXCELSIOR ALIMENTOS S.A.",
+    "codes": [
+      "BAUH3",
+      "BAUH4"
+    ]
+  },
+  {
+    "name": "ANDRADE GUTIERREZ PARTICIPACOES S.A.",
+    "codes": [
+      "CANT3B",
+      "CANT4B"
+    ]
+  },
+  {
+    "name": "RUMO MALHA PAULISTA S.A.",
+    "codes": []
+  },
+  {
+    "name": "METALFRIO SOLUTIONS S.A.",
+    "codes": [
+      "FRIO3"
+    ]
+  },
+  {
+    "name": "PRATICA PARTICIPACOES S.A.",
+    "codes": [
+      "PRCA11",
+      "PRCA12",
+      "PRCA3"
+    ]
+  },
+  {
+    "name": "BAHEMA S.A.",
+    "codes": [
+      "BAHI3"
+    ]
+  },
+  {
+    "name": "BRASIL BROKERS PARTICIPACOES S.A.",
+    "codes": [
+      "BBRK3"
+    ]
+  },
+  {
+    "name": "GRAZZIOTIN S.A.",
+    "codes": [
+      "CGRA4",
+      "CGRA3"
+    ]
+  },
+  {
+    "name": "SCHULZ S.A.",
+    "codes": [
+      "SHUL3",
+      "SHUL4"
+    ]
+  },
+  {
+    "name": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS S.A.",
+    "codes": [
+      "CVCB3"
+    ]
+  },
+  {
+    "name": "WHIRLPOOL S.A.",
+    "codes": [
+      "WHRL4",
+      "WHRL3"
+    ]
+  },
+  {
+    "name": "TECNOSOLO ENGENHARIA S.A.",
+    "codes": [
+      "TCNO4",
+      "TCNO3"
+    ]
+  },
+  {
+    "name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+    "codes": [
+      "TAEE11",
+      "TAEE3",
+      "TAEE4"
+    ]
+  },
+  {
+    "name": "PETRO RIO S.A.",
+    "codes": [
+      "PRIO3"
+    ]
+  },
+  {
+    "name": "ALIANSCE SHOPPING CENTERS S.A.",
+    "codes": [
+      "ALSC3"
+    ]
+  },
+  {
+    "name": "ELETROBRÁS PARTICIPAÇÕES S.A. - ELETROPAR",
+    "codes": [
+      "LIPR3"
+    ]
+  },
+  {
+    "name": "METISA METALURGICA TIMBOENSE S.A.",
+    "codes": [
+      "MTSA3",
+      "MTSA4"
+    ]
+  },
+  {
+    "name": "CONC ROTA DAS BANDEIRAS S.A.",
+    "codes": []
+  },
+  {
+    "name": "CENTRAIS ELET DE SANTA CATARINA S.A.",
+    "codes": [
+      "CLSC4",
+      "CLSC3"
+    ]
+  },
+  {
+    "name": "CONC AUTO RAPOSO TAVARES S.A.",
+    "codes": []
+  },
+  {
+    "name": "PBG S/A",
+    "codes": [
+      "PTBL3"
+    ]
+  },
+  {
+    "name": "PORTO SEGURO S.A.",
+    "codes": [
+      "PSSA3"
+    ]
+  },
+  {
+    "name": "KEPLER WEBER S.A.",
+    "codes": [
+      "KEPL3"
+    ]
+  },
+  {
+    "name": "CCX CARVÃO DA COLÔMBIA S.A.",
+    "codes": [
+      "CCXC3"
+    ]
+  },
+  {
+    "name": "BNDES PARTICIPACOES S.A. - BNDESPAR",
+    "codes": []
+  },
+  {
+    "name": "DOHLER S.A.",
+    "codes": [
+      "DOHL4",
+      "DOHL3"
+    ]
+  },
+  {
+    "name": "FIBAM COMPANHIA INDUSTRIAL",
+    "codes": [
+      "FBMC3",
+      "FBMC4"
+    ]
+  },
+  {
+    "name": "OCTANTE SECURITIZADORA S.A.",
+    "codes": []
+  },
+  {
+    "name": "AMPLA ENERGIA E SERVICOS S.A.",
+    "codes": [
+      "CBEE3"
+    ]
+  },
+  {
+    "name": "BRADESPAR S.A.",
+    "codes": [
+      "BRAP3",
+      "BRAP4"
+    ]
+  },
+  {
+    "name": "BR INSURANCE CORRETORA DE SEGUROS S.A.",
+    "codes": [
+      "BRIN3"
+    ]
+  },
+  {
+    "name": "CCB BRASIL ARRENDAMENTO MERCANTIL S.A.",
+    "codes": []
+  },
+  {
+    "name": "PANATLANTICA S.A.",
+    "codes": [
+      "PATI4",
+      "PATI3"
+    ]
+  },
+  {
+    "name": "BTG PACTUAL PARTICIPATIONS. LTD.",
+    "codes": [
+      "BBTG11",
+      "BBTG35",
+      "BBTG12",
+      "BBTG36"
+    ]
+  },
+  {
+    "name": "SANTO ANTONIO ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "JSL S.A.",
+    "codes": [
+      "JSLG3"
+    ]
+  },
+  {
+    "name": "MARCOPOLO S.A.",
+    "codes": [
+      "POMO3",
+      "POMO4"
+    ]
+  },
+  {
+    "name": "BCO BRASIL S.A.",
+    "codes": [
+      "BBAS3",
+      "BBAS11",
+      "BBAS12"
+    ]
+  },
+  {
+    "name": "JHSF PARTICIPACOES S.A.",
+    "codes": [
+      "JHSF3"
+    ]
+  },
+  {
+    "name": "MILLS ESTRUTURAS E SERVIÇOS DE ENGENHARIA S.A.",
+    "codes": [
+      "MILS3"
+    ]
+  },
+  {
+    "name": "TEC TOY S.A.",
+    "codes": [
+      "TOYB4",
+      "TOYB3"
+    ]
+  },
+  {
+    "name": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+    "codes": [
+      "CYRE3"
+    ]
+  },
+  {
+    "name": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA S.A.",
+    "codes": [
+      "ADHM3"
+    ]
+  },
+  {
+    "name": "WLM - INDUSTRIA E COMERCIO S.A.",
+    "codes": [
+      "SGAS4",
+      "SGAS3"
+    ]
+  },
+  {
+    "name": "PATRIA CIA SECURITIZADORA DE CRED IMOB",
+    "codes": []
+  },
+  {
+    "name": "BOMBRIL S.A.",
+    "codes": [
+      "BOBR3",
+      "BOBR4"
+    ]
+  },
+  {
+    "name": "RENOVA ENERGIA S.A.",
+    "codes": [
+      "RNEW11",
+      "RNEW3",
+      "RNEW4"
+    ]
+  },
+  {
+    "name": "KLABIN S.A.",
+    "codes": [
+      "KLBN3",
+      "KLBN4",
+      "KLBN11"
+    ]
+  },
+  {
+    "name": "LIBRA TERMINAL RIO S.A.",
+    "codes": []
+  },
+  {
+    "name": "ALEF S.A.",
+    "codes": [
+      "ALEF3B"
+    ]
+  },
+  {
+    "name": "WILSON SONS LTD.",
+    "codes": [
+      "WSON33"
+    ]
+  },
+  {
+    "name": "RIO PARANAPANEMA ENERGIA S.A.",
+    "codes": [
+      "GEPA4",
+      "GEPA3"
+    ]
+  },
+  {
+    "name": "MONTEIRO ARANHA S.A.",
+    "codes": [
+      "MOAR3"
+    ]
+  },
+  {
+    "name": "ELETRON S.A.",
+    "codes": [
+      "ETRO3B"
+    ]
+  },
+  {
+    "name": "SANSUY S.A. INDUSTRIA DE PLASTICOS",
+    "codes": [
+      "SNSY5",
+      "SNSY6",
+      "SNSY3"
+    ]
+  },
+  {
+    "name": "PRUMO LOGÍSTICA S.A.",
+    "codes": [
+      "PRML3"
+    ]
+  },
+  {
+    "name": "RB CAPITAL COMPANHIA DE SECURITIZAÇÃO",
+    "codes": []
+  },
+  {
+    "name": "INSTITUTO HERMES PARDINI S.A.",
+    "codes": [
+      "PARD3"
+    ]
+  },
+  {
+    "name": "ELETROPAULO METROP. ELET. SAO PAULO S.A.",
+    "codes": [
+      "ELPL3",
+      "ELPL4"
+    ]
+  },
+  {
+    "name": "QUALITY SOFTWARE S.A.",
+    "codes": [
+      "QUSW3"
+    ]
+  },
+  {
+    "name": "EMPRESA NAC COM REDITO PART S.A.ENCORPAR",
+    "codes": [
+      "ECPR4",
+      "ECPR3"
+    ]
+  },
+  {
+    "name": "CIA ELETRICIDADE EST. DA BAHIA - COELBA",
+    "codes": [
+      "CEEB3",
+      "CEEB5",
+      "CEEB6"
+    ]
+  },
+  {
+    "name": "CONSTRUTORA ADOLPHO LINDENBERG S.A.",
+    "codes": [
+      "CALI3",
+      "CALI4"
+    ]
+  },
+  {
+    "name": "RAIA DROGASIL S.A.",
+    "codes": [
+      "RADL3"
+    ]
+  },
+  {
+    "name": "BRASKEM S.A.",
+    "codes": [
+      "BRKM3",
+      "BRKM5",
+      "BRKM6"
+    ]
+  },
+  {
+    "name": "MANGELS INDUSTRIAL S.A.",
+    "codes": [
+      "MGEL3",
+      "MGEL4"
+    ]
+  },
+  {
+    "name": "BONAIRE PARTICIPACOES S.A.",
+    "codes": [
+      "BNPA3B"
+    ]
+  },
+  {
+    "name": "ALFA HOLDINGS S.A.",
+    "codes": [
+      "RPAD3",
+      "RPAD5",
+      "RPAD6"
+    ]
+  },
+  {
+    "name": "CONC RODOVIA PRES. DUTRA S.A.",
+    "codes": []
+  },
+  {
+    "name": "CIELO S.A.",
+    "codes": [
+      "CIEL3"
+    ]
+  },
+  {
+    "name": "RAIZEN ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "GOL LINHAS AEREAS INTELIGENTES S.A.",
+    "codes": [
+      "GOLL4"
+    ]
+  },
+  {
+    "name": "CAMBUCI S.A.",
+    "codes": [
+      "CAMB3",
+      "CAMB4"
+    ]
+  },
+  {
+    "name": "TEXTIL RENAUXVIEW S.A.",
+    "codes": [
+      "TXRX3",
+      "TXRX4"
+    ]
+  },
+  {
+    "name": "MAGNESITA REFRATARIOS S.A.",
+    "codes": [
+      "MAGG3"
+    ]
+  },
+  {
+    "name": "CIA TECIDOS NORTE DE MINAS COTEMINAS",
+    "codes": [
+      "CTNM4",
+      "CTNM3"
+    ]
+  },
+  {
+    "name": "BCO PINE S.A.",
+    "codes": [
+      "PINE3",
+      "PINE4"
+    ]
+  },
+  {
+    "name": "NATURA COSMETICOS S.A.",
+    "codes": [
+      "NATU3"
+    ]
+  },
+  {
+    "name": "CONTAX PARTICIPACOES S.A.",
+    "codes": [
+      "CTAX3"
+    ]
+  },
+  {
+    "name": "IGUATEMI EMPRESA DE SHOPPING CENTERS S.A",
+    "codes": [
+      "IGTA3"
+    ]
+  },
+  {
+    "name": "CABINDA PARTICIPACOES S.A.",
+    "codes": [
+      "CABI3B"
+    ]
+  },
+  {
+    "name": "ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A",
+    "codes": [
+      "ENMT3",
+      "ENMT4"
+    ]
+  },
+  {
+    "name": "OSX BRASIL S.A.",
+    "codes": [
+      "OSXB3"
+    ]
+  },
+  {
+    "name": "CIA MELHORAMENTOS DE SAO PAULO",
+    "codes": [
+      "MSPA3",
+      "MSPA4"
+    ]
+  },
+  {
+    "name": "OPPORTUNITY ENERGIA E PARTICIPACOES S.A.",
+    "codes": [
+      "OPHE3B"
+    ]
+  },
+  {
+    "name": "COSAN LIMITED",
+    "codes": [
+      "CZLT33"
+    ]
+  },
+  {
+    "name": "SER EDUCACIONAL S.A.",
+    "codes": [
+      "SEER3"
+    ]
+  },
+  {
+    "name": "NEWTEL PARTICIPACOES S.A.",
+    "codes": [
+      "NEWT3B"
+    ]
+  },
+  {
+    "name": "AMBEV S.A.",
+    "codes": [
+      "ABEV3"
+    ]
+  },
+  {
+    "name": "TPI - TRIUNFO PARTICIP. E INVEST. S.A.",
+    "codes": [
+      "TPIS3"
+    ]
+  },
+  {
+    "name": "CONC RODOVIAS DO TIETÊ S.A.",
+    "codes": []
+  },
+  {
+    "name": "MINERVA S.A.",
+    "codes": [
+      "BEEF3"
+    ]
+  },
+  {
+    "name": "TEGMA GESTAO LOGISTICA S.A.",
+    "codes": [
+      "TGMA3"
+    ]
+  },
+  {
+    "name": "APICE SECURITIZADORA S.A.",
+    "codes": []
+  },
+  {
+    "name": "BIOSEV S.A.",
+    "codes": [
+      "BSEV3"
+    ]
+  },
+  {
+    "name": "CONC ROD.OESTE SP VIAOESTE S.A",
+    "codes": []
+  },
+  {
+    "name": "ALUPAR INVESTIMENTO S/A",
+    "codes": [
+      "ALUP11",
+      "ALUP4",
+      "ALUP3"
+    ]
+  },
+  {
+    "name": "CINESYSTEM S.A.",
+    "codes": [
+      "CNSY3"
+    ]
+  },
+  {
+    "name": "QUALICORP S.A.",
+    "codes": [
+      "QUAL3"
+    ]
+  },
+  {
+    "name": "ANDRADE GUTIERREZ CONCESSOES S.A.",
+    "codes": [
+      "ANDG4B",
+      "ANDG3B"
+    ]
+  },
+  {
+    "name": "NUTRIPLANT INDUSTRIA E COMERCIO S.A.",
+    "codes": [
+      "NUTR3"
+    ]
+  },
+  {
+    "name": "BRAZILIAN SECURITIES CIA SECURITIZACAO",
+    "codes": []
+  },
+  {
+    "name": "T4F ENTRETENIMENTO S.A.",
+    "codes": [
+      "SHOW3"
+    ]
+  },
+  {
+    "name": "BRC SECURITIZADORA S.A.",
+    "codes": []
+  },
+  {
+    "name": "CTC - CENTRO DE TECNOLOGIA CANAVIEIRA S.A.",
+    "codes": [
+      "CTCA3"
+    ]
+  },
+  {
+    "name": "CONC RIO-TERESOPOLIS S.A.",
+    "codes": [
+      "CRTE3B",
+      "CRTE5B"
+    ]
+  },
+  {
+    "name": "MAGAZINE LUIZA S.A.",
+    "codes": [
+      "MGLU3"
+    ]
+  },
+  {
+    "name": "ELEKTRO REDES S.A.",
+    "codes": [
+      "EKTR3",
+      "EKTR4"
+    ]
+  },
+  {
+    "name": "M.DIAS BRANCO S.A. IND COM DE ALIMENTOS",
+    "codes": [
+      "MDIA3"
+    ]
+  },
+  {
+    "name": "LITEL PARTICIPACOES S.A.",
+    "codes": [
+      "LTEL11B",
+      "LTEL5B",
+      "LTEL3B"
+    ]
+  },
+  {
+    "name": "CEMIG GERACAO E TRANSMISSAO S.A.",
+    "codes": []
+  },
+  {
+    "name": "IOCHPE MAXION S.A.",
+    "codes": [
+      "MYPK3"
+    ]
+  },
+  {
+    "name": "CONC SIST ANHANG-BANDEIRANT S.A. AUTOBAN",
+    "codes": []
+  },
+  {
+    "name": "METALGRAFICA IGUACU S.A.",
+    "codes": [
+      "MTIG3",
+      "MTIG4"
+    ]
+  },
+  {
+    "name": "INDUSTRIAS ROMI S.A.",
+    "codes": [
+      "ROMI3"
+    ]
+  },
+  {
+    "name": "MERCANTIL BRASIL FINANC S.A. C.F.I.",
+    "codes": [
+      "MERC4",
+      "MERC3"
+    ]
+  },
+  {
+    "name": "CREMER S.A.",
+    "codes": [
+      "CREM3"
+    ]
+  },
+  {
+    "name": "CELULOSE IRANI S.A.",
+    "codes": [
+      "RANI4",
+      "RANI3"
+    ]
+  },
+  {
+    "name": "CIA SEGUROS ALIANCA DA BAHIA",
+    "codes": [
+      "CSAB3",
+      "CSAB4"
+    ]
+  },
+  {
+    "name": "BCO MERCANTIL DO BRASIL S.A.",
+    "codes": [
+      "BMEB4",
+      "BMEB3"
+    ]
+  },
+  {
+    "name": "CIA ESTADUAL GER.TRANS.ENER.ELET-CEEE-GT",
+    "codes": [
+      "EEEL3",
+      "EEEL4"
+    ]
+  },
+  {
+    "name": "BCO SANTANDER S.A.",
+    "codes": [
+      "BSAN33"
+    ]
+  },
+  {
+    "name": "ELEKEIROZ S.A.",
+    "codes": [
+      "ELEK4",
+      "ELEK3"
+    ]
+  },
+  {
+    "name": "CIA LOCAÇÃO DAS AMÉRICAS",
+    "codes": [
+      "LCAM3"
+    ]
+  },
+  {
+    "name": "VALE S.A.",
+    "codes": [
+      "VALE3",
+      "VALE5"
+    ]
+  },
+  {
+    "name": "ENERGISA MATO GROSSO DO SUL - DIST DE ENERGIA S.A.",
+    "codes": []
+  },
+  {
+    "name": "ODONTOPREV S.A.",
+    "codes": [
+      "ODPV3"
+    ]
+  },
+  {
+    "name": "IDEIASNET S.A.",
+    "codes": [
+      "IDNT3"
+    ]
+  },
+  {
+    "name": "BCO ESTADO DO RIO GRANDE DO SUL S.A.",
+    "codes": [
+      "BRSR3",
+      "BRSR5",
+      "BRSR6"
+    ]
+  },
+  {
+    "name": "OGX PETROLEO E GAS S.A.",
+    "codes": [
+      "OGSA3"
+    ]
+  },
+  {
+    "name": "INTERNATIONAL MEAL COMPANY ALIMENTACAO S.A.",
+    "codes": [
+      "MEAL3"
+    ]
+  },
+  {
+    "name": "GERDAU S.A.",
+    "codes": [
+      "GGBR3",
+      "GGBR4"
+    ]
+  },
+  {
+    "name": "EVEN CONSTRUTORA E INCORPORADORA S.A.",
+    "codes": [
+      "EVEN3"
+    ]
+  }
+]
