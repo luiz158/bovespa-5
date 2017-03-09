@@ -12,7 +12,7 @@ public class CompaniesService {
     @Autowired
     private CompaniesRepo companiesRepo;
 
-    public Set<Company> getAll(Set<Company> current) {
-        return companiesRepo.getAll(current);
+    public Set<Company> getAll() {
+        return companiesRepo.getAll();
     }
 }

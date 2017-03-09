@@ -9,6 +9,7 @@ import com.dolirio.bovespa.scrapper.infra.paginas.CompanyPage.CompanyLink;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import java.util.Set;
@@ -16,8 +17,23 @@ import java.util.Set;
 @Repository
 public class CompanyScrapper implements CompaniesRepo {
 
+    @Autowired
+    private CompaniesJsonRepo companiesJsonRepo;
+
     @Override
-    public Set<Company> getAll(Set<Company> current) {
+    public Set<Company> getAll() {
+
+        Set<Company> companies = companiesJsonRepo.getCurrentCompaniesFile();
+
+        if (companies.size() < 400) {
+            scrap(companies);
+            companiesJsonRepo.saveCompaniesList(companies);
+        }
+
+        return companies;
+    }
+
+    private void scrap(Set<Company> current) {
 
         DesiredCapabilities caps = new DesiredCapabilities();
         caps.setCapability("phantomjs.binary.path", "bin/phantomjs");
@@ -50,8 +66,6 @@ public class CompanyScrapper implements CompaniesRepo {
             companies.add(company);
 
         } while ((empresaAtual < (totalEmpresas - 1)) || max++ < 60);
-
-        return companies;
     }
 
     private CompanyPage getCompanyPage(DesiredCapabilities caps) {

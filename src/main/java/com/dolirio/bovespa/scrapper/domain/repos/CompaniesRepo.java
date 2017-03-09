@@ -6,5 +6,5 @@ import java.util.Set;
 
 public interface CompaniesRepo {
 
-    Set<Company> getAll(Set<Company> current);
+    Set<Company> getAll();
 }
